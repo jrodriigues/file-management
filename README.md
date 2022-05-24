@@ -1,7 +1,6 @@
 # File management programs written in python
 
-
-               **fileNameChanger.py**
+**         fileNameChanger.py**
 
 ### This program is intended to quickly rename all the files within a specified directory while keeping the same extension.
 ### When you run the program, you will be prompted 3 things:
